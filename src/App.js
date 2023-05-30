@@ -1,5 +1,5 @@
 import BgDesktop from "./images/bg-intro-desktop.svg";
-import BgMobil from "./images/bg-intro-mobile.svg";
+
 import ApiIcon from "./images/icon-api.svg";
 import BudgetIcon from "./images/icon-budgeting.svg";
 import CloseIcon from "./images/icon-close.svg";
